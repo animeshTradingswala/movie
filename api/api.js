@@ -78,10 +78,9 @@ export default class ApiCall extends React.Component {
 
 const styles = StyleSheet.create({
     view:{
-        paddingTop:50,
+        paddingTop:20,
         flexDirection:'row',
         justifyContent:'space-around',
-        height:'100%',
         width:'100%',
     },
     number:{
